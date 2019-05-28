@@ -3,18 +3,23 @@
     color: whitesmoke;
 }
 body{
-    background-image: url("https://img.freepik.com/photos-gratuite/plexus-reseau-abstrait-titres-technologie-fond-numerique_34629-558.jpg?size=626&ext=jpg");
+    background-image: url("https://www.microsoft.com/en-us/research/uploads/prod/2017/05/Area_IconHeader_Sys_Prog_1920x720-800x550.png");
     background-repeat: no-repeat;
     background-size: cover;   
 }
 h1{
+    font-size:40px;
+    margin-top : 100px;
+    margin-left: 400px;   
+}
+h2{
     font-size:40px;
     margin-top : 200px;
     margin-left: 400px;   
 }
 p{
     margin-left:400px;
-    margin-top: 100px;
+    margin-top: 30px;
     font-size: 30px;
 
 }
@@ -26,6 +31,12 @@ a{
 .icons{
     margin-left: 150px;
     margin-top: 100px;
+}
+.navbar{
+    margin-left: 200px;
+    margin-right: 350px;
+    background-color: rgb(57, 196, 145);
+    padding:20px;
 }
 
 /* p{

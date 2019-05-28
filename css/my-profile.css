@@ -1,7 +1,7 @@
 body{
     font-family:'Lora';
     color: whitesmoke;
-    background-color: black;
+    background-color: rgb(3, 76, 78);
 }
 h1{
     font-size:40px;
@@ -31,8 +31,38 @@ a{
     margin-top: 100px;
     color: whitesmoke;
 }
+.navbar{
+    margin-left: 200px;
+    margin-right: 350px;
+    background-color: rgb(57, 196, 145);
+    padding:20px;
+}
+
 .skill{
     font-size: 30px;  
     margin-left: 100px;
     font-size:20px;
+}
+
+.project{
+    margin: 200px;
+}
+/* .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+
+.gallery {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:  auto;
+    padding: 20px;
+    width: 30%;
+  } */
+img{
+    align-items: center;
+    
 }
